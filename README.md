@@ -13,4 +13,4 @@ python prem-ig.py
 # MENU
 ![img](https://github.com/Reza-muhamad/Insta-IG/blob/main/Screenshot_20230308-015119.png)
 # Hasil
-![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220829_152656.jpg)
+![img](https://github.com/Reza-muhamad/Insta-IG/blob/main/Screenshot_20230308-015239.png)
