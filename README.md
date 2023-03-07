@@ -10,7 +10,7 @@ git clone https://github.com/Reza-muhamad/Insta-IG
 cd Insta-IG
 python prem-ig.py
 ```
-# Hasil Dari Tools OBF-PY3
-![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220829_152707.jpg)
-# Hasil Dari Tools OBF-PY3 (OBF)
+# MENU
+![img](https://github.com/Reza-muhamad/Insta-IG/blob/main/Screenshot_20230308-015119.png)
+# Hasil
 ![img](https://github.com/Xenzi-XN1/OBF-PY3/blob/main/IMG_20220829_152656.jpg)
